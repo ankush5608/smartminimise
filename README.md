@@ -1,1 +1,1 @@
-# smartminimise
+minipro.html
